@@ -39,8 +39,8 @@ int main(int argv, char *argc[])
     get_ready(folder, filename, timings, iet_sequence, tree, num_event, isTreeRead);
     printf("get ready\n");
 
-    ENS = 100; // ensemble size
-    isTreeRead_ens = 1; // 0: detect the tree from iet sequence
+    ENS = 20; // ensemble size
+    isTreeRead_ens = 0; // 0: detect the tree from iet sequence
                         // 1: read the tree from the existing file
     main_RRM(folder, filename, timings, iet_sequence, tree, num_event, ENS, isTreeRead_ens);
     printf("RRM\n");
