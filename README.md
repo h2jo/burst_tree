@@ -1,4 +1,4 @@
-# burst_tree_decomposition
+# burst_tree
 
 Author: Hang-Hyun Jo (h2jo23@gmail.com)
 
