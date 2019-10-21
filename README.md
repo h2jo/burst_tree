@@ -8,7 +8,7 @@ Description:
     Codes developed and used for the following paper: Hang-Hyun Jo, Takayuki Hiraoka, and Mikko Kivela, Burst-tree decomposition of time series reveals the structure of temporal correlations [[arXiv:1907.13556](https://arxiv.org/abs/1907.13556)]
 
 
-Folder description
+File/folder description
 
 1. /header: header files
 
@@ -37,3 +37,5 @@ Folder description
     main.c: main c file
     
     run.sh: shell script for compiling and running the program
+
+5. bursttree.py: Python implementation of the burst tree decomposition/recomposition method.
