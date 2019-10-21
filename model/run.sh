@@ -7,5 +7,6 @@ alpha=1.80
 a=3.0
 h=100.0
 s=4.0
+ens=10
 
-./main.x $folder $n $alpha $a $h $s
+./main.x $folder $n $alpha $a $h $s $ens
