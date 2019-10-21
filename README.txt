@@ -23,3 +23,5 @@ Folder description
 4. /model: kernel-based modeling
     main.c: main c file
     run.sh: shell script for compiling and running the program
+    
+5. bursttree.py: Python implementation of the burst tree decomposition/recomposition method. Written by Mikko Kivela.
