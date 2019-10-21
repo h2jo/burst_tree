@@ -38,4 +38,4 @@ File/folder description
     
     run.sh: shell script for compiling and running the program
 
-5. bursttree.py: Python implementation of the burst tree decomposition/recomposition method.
+5. bursttree.py: Python implementation of the burst tree decomposition/recomposition method. Written by Mikko Kivela.
