@@ -16,8 +16,6 @@ Folder description
 
     main.c: main c file
     
-    main.x: main execution file
-    
     run.sh: shell script for compiling and running the program
     
     timings_example.txt: the first 1000 events for the most active Wikipedia editor
@@ -28,8 +26,6 @@ Folder description
 
     main.c: main c file
     
-    main.x: main execution file
-    
     run.sh: shell script for compiling and running the program
     
     timings_example.txt: the first 1000 events for the most active Wikipedia editor
@@ -39,7 +35,5 @@ Folder description
 4. /model: kernel-based modeling
     
     main.c: main c file
-    
-    main.x: main execution file
     
     run.sh: shell script for compiling and running the program
