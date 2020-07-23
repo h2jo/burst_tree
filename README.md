@@ -5,7 +5,7 @@ Author: Hang-Hyun Jo (h2jo23@gmail.com)
 Upload date: 19 October 2019
 
 Description: 
-    Codes developed and used for the following paper: Hang-Hyun Jo, Takayuki Hiraoka, and Mikko Kivela, Burst-tree decomposition of time series reveals the structure of temporal correlations [[arXiv:1907.13556](https://arxiv.org/abs/1907.13556)]
+    Codes developed and used for the following paper: Hang-Hyun Jo, Takayuki Hiraoka, and Mikko Kivela, Burst-tree decomposition of time series reveals the structure of temporal correlations [[arXiv:1907.13556](https://arxiv.org/abs/1907.13556); [Scientific Reports 10, 12202 (2020)](https://www.nature.com/articles/s41598-020-68157-1)]
 
 
 File/folder description
